@@ -1,0 +1,2 @@
+ortools==9.9.3963
+reportlab==4.1.0
